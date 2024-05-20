@@ -103,7 +103,7 @@
 
 
 ## About the project:
-I have built this application with [ .NET 4.8 Framework]([https://github.com/facebook/create-react-app](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)) as a base.
+I have built this application with <a href="https://github.com/facebook/create-react-app](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481">.NET 4.8 Framework</a> as a base.
 
 #### <ins>Develpment tools:</ins>
 
