@@ -7,7 +7,7 @@
 <img width="95%" src="https://drive.google.com/thumbnail?id=148DX_e2OBBgg9BgnHHb04qRMe9-ePrLZ&sz=w1000"/>
 
 ## System Architecture:
-#### I have built The application following a <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">Clean Architecture</a> design phillosophy by <a href="http://cleancoder.com/products">@Uncle Bob martin</a> to bring about separation of concerns between the Business logic layer and  the Presentation layer to allow for high Perfomance, Maintanability and  Testibility.
+#### I have built The application following a <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank">Clean Architecture</a> design phillosophy by <a href="http://cleancoder.com/products" target="_blank">@Uncle Bob martin</a> to bring about separation of concerns between the Business logic layer and  the Presentation layer to allow for high Perfomance, Maintanability and  Testibility.
 
 <img width="95%" src="https://drive.google.com/thumbnail?id=1798xH1Oexdi_FggIjq1P1HJx56Pegku2&sz=w1000" />
 
@@ -111,7 +111,7 @@
 
 
 ## About the project:
-I have built this application with <a href="https://github.com/facebook/create-react-app](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481">.NET 4.8 Framework</a> as a base.
+I have built this application with <a href="https://github.com/facebook/create-react-app](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481" target="_blank">.NET 4.8 Framework</a> as a base.
 
 #### <ins>Develpment tools:</ins>
 
