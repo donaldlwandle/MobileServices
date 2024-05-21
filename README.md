@@ -6,6 +6,14 @@
 <img width="95%" src="https://drive.google.com/thumbnail?id=1unwHLIjDVmbdbOcGKmr_vG8vmpYSxSUa&sz=w1000" />
 <img width="95%" src="https://drive.google.com/thumbnail?id=148DX_e2OBBgg9BgnHHb04qRMe9-ePrLZ&sz=w1000"/>
 
+## System Architecture:
+###### I have built The application following a <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">Clean Architecture</a> design phillosophy by <a href="http://cleancoder.com/products">@Uncle Bob martin</a> to bring about separation of concerns between the Business logic layer and  the Presentation layer to allow for high Perfomance, Maintanability and  Testibility.
+
+<img width="95%" src="https://drive.google.com/thumbnail?id=1798xH1Oexdi_FggIjq1P1HJx56Pegku2&sz=w1000" />
+
+
+
+
 ## Functionality:
 #### <ins>Customer Side</ins>
 <ol>
@@ -85,7 +93,7 @@
   <li>
     Main Page Navigation:
     <ul>
-      <li>The main page UI navigation panel will include a "Completed" button, launching a page that shows accepted services, and a           "My Services" panel, where the service provider can view and add new services.</li>
+      <li>The main page UI navigation panel will include a "Completed" button, launching a page that shows accepted services, and a "My Services" panel, where the service provider can view and add new services.</li>
     </ul>
     
     
@@ -146,11 +154,9 @@ I have built this application with <a href="https://github.com/facebook/create-r
 
 </ol>
 
-## The User Interface:
-###### I have built the following pages within this application: sign in, sign up, browse & lastly the homepage. There are four different pages, some using protected routes with auth listeners. I used compound components (just a design pattern) to build my components. The styling is all handled via styled components. Using compound components made my actual dumb components really easy to test.
 
-## Data layer and Business Logic:
-###### Firebase firestore handles all the data and that data is retrieved using a custom hook; authentication is used on all pages, which is handled by Firebase as well.
+
+
 
 
 
